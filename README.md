@@ -1,2 +1,2 @@
-# jjuyeon.github.io
+# juyeon.github.io
 juyeon's C++ study pages
