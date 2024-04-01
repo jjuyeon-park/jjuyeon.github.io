@@ -1,0 +1,3 @@
+2063. 중간값 찾기
+#algorithm 라이브러리 사용 #기본 sort사용
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QPsXKA2UDFAUq&categoryId=AV5QPsXKA2UDFAUq&categoryType=CODE&problemTitle=%EC%A4%91%EA%B0%84&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1
