@@ -1,0 +1,3 @@
+15758. 무한 문자열
+#str.length() #str.find()
+https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&problemLevel=3&problemLevel=4&contestProbId=AYP5JmsqcngDFATW&categoryId=AYP5JmsqcngDFATW&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=3
